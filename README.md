@@ -62,7 +62,7 @@ Dieses Jahr lernen wir noch Javascript dazu.
 
 # Hyperlinks: #
 
-- [UE01][(https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE01/UE01.html)]
+- [UE01](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE01/UE01.html)
 
 - [UE02](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE02/UE2_Fehlersuche_Angabe.html)
 
