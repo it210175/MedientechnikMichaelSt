@@ -62,7 +62,26 @@ Dieses Jahr lernen wir noch Javascript dazu.
 
 # Hyperlinks: #
 
-[UE01](https://github.com/it210175/MedientechnikMichaelSt/edit/main/README.md)
+- [UE01](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE01/UE01)
+
+- [UE02](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE02/UE2_Fehlersuche_Angabe)
+
+- [UE03](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE03/UE3_HTML_Stuetzner)
+
+- [UE04](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE04/UE4_Unterrichtsfaecher_Stuetzner)
+
+- [UE05](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE05/UE5_Kontinente_Stuetzner)
+
+- [UE06](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE06/UE6_History_Stuetzner)
+
+- [UE07](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE07/Uebung7_Zusatzinfos)
+
+- [UE08](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE08/UE8_Hyperlinks)
+
+- [UE09](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE09/UE8.2_Links_and_List)
+
+- [UE010](https://github.com/it210175/MedientechnikMichaelSt/edit/main/UE010/UE10_Landschaftsbilder_Stuetzner)
+
 
 
 
